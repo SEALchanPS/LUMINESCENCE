@@ -1,6 +1,6 @@
-<center><font size=5>LUMINESCENCE WORLD</font></center>
+LUMINESCENCE WORLD
 
-<center>一个关于爱、正义和救赎的故事。</center>
+*你……能看到远处闪动的救赎之光吗？*
 
 [TO BE EDITED]
 
