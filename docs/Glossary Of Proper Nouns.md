@@ -24,3 +24,9 @@
 | 姜夏黎 | Jackie Salome | ジャッキー・サロメ |
 | 夏严奎 | Saul Yakov | ソール・ヤコ |
 
+# 事件名称 · Activity Name
+
+| 中文 | ENGLISH |
+| ---- | ------- |
+| 活动 | Activity |
+
