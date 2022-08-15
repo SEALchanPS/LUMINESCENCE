@@ -1,0 +1,39 @@
+{
+    "first_run": {
+        "first_started": false,
+        "already_read_license": false,
+        "already_read_info": false
+    },
+    "level": {
+        "loving_level": 0,
+        "scouting_level": 0,
+        "combating_level": 0,
+        "doubting_level": 0
+    },
+    "ability": {
+        "stalking": 0,
+        "combating": 0,
+        "accuracy": 0
+    },
+    "vitality": 0,
+    "potential": 0,
+    "mainline_status": {
+        "line1": {
+            "relationship_broken": false,
+            "broken_time": 0
+        },
+        "line2": {
+            "be_told_truth": false,
+            "was_caught_by_boss": false,
+            "escape_successfully": false,
+            "saw_guns_light": false,
+            "get_keywords_from_boss": false,
+            "heard_about_info_from_meeting": false,
+            "heard_about_info_from_office": false,
+            "friends": {},
+            "weapons": {}
+        }
+    },
+
+    "time": 0
+}
