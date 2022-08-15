@@ -132,7 +132,7 @@ def halfday3():
         if result == "1":
             active = False
             print("不幸地，班主任 99.9% 不会直接回答你的问题。但是有可能你是那唯一的 0.1%。")
-            print("正在为你寻找 1 到 1000 之内的一个随机数。若随机数=1，则班主任会直接告诉你问题。")
+            print("正在为你寻找 1 到 1000 之内的一个随机数。若随机数 = 1，则班主任会直接告诉你问题。")
             randomnum = random.randint(1, 1000)
             if randomnum == 1:
                 print(f"恭喜你，随机数值为 {randomnum}。班主任会直接告诉你这一切。")
